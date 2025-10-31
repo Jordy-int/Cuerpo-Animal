@@ -26,6 +26,8 @@ function App() {
           <figcaption className='figure-caption fs-3' >Canino</figcaption>
         </figure>
 
+        
+
 
 
       </main>
